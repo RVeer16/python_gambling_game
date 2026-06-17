@@ -12,6 +12,3 @@ A simple intentionally rigged terminal based gambling game, Made for Fun
 ## Why it's rigged
 Win chance is 1/3 but loss chance is 2/3.
 Long term you will always lose. Intentional design.
-
-## How to run
-python gambling_game.py

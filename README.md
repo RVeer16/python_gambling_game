@@ -10,9 +10,9 @@ A simple intentionally rigged terminal based gambling game, Made for Fun
 - Type 0 to quit anytime
 
 ## How it's rigged
-Win chance is 1/3 but loss chance is 2/3.
+-Win chance is 1/3 but loss chance is 2/3.
 
-On average you will win once(3x your money) and lose twice(half it)
-This will give you 25% loss(3/4)
+-On average you will win once(3x your money) and lose twice(half it)
+-This will give you 25% loss(3/4)
 
-Long term you will always lose. Intentional design.
+-Long term you will always lose. Intentional design.
